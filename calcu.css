@@ -1,0 +1,30 @@
+
+.botones-calcu{
+    display: grid;
+    grid-template-columns: repeat(3,75px);    
+    grid-row: repeat(2,75px);
+   justify-content: center;
+   padding: 20%;
+   
+}
+
+
+.Calculadora{
+    height: 250px;
+    width: 250px;
+    padding: 20%;
+    display:block;
+    
+}
+
+
+.subida{
+    left: 22px;
+    position: relative;
+}
+
+.windows{
+    bottom: 20px;
+    position: relative;
+    top: 101px;
+}
